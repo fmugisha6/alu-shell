@@ -1,2 +1,2 @@
 #!/bin/bash
-xargs -L 2 sh -c 'echo "$1"' _
+xargs -d '\n' -L 2 sh -c 'echo "$1"' _
