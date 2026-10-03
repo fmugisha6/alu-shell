@@ -1,4 +1,4 @@
-#!/usr/bin/ env bash 
+#!/usr/bin/env bash 
 # displaying "Best School" 10 times and on 9th time the code displays "HI"on a new line
  
 i=1
